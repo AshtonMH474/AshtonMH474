@@ -1,5 +1,24 @@
-## Hi there 👋
+# Hi, I’m Ashton!
 
+I'm a software engineer ready to tackle any complex problem you throw my way—consider me your personal code detective! Whether it’s debugging a pesky issue or optimizing a tricky algorithm, I’m here to turn tech headaches into happy endings.
+
+## My Passions
+- Snowboarding 🏂
+- Video Games 🎮
+- Hiking 🥾
+- Wakeboarding 🌊
+- Boating 🛥️
+
+## Skills
+- **Languages**: JavaScript, Python
+- **Frameworks**: React, Flask, Express
+- **Libraries**: Redux, SQLAlchemy, Sequelize
+- **Databases**: SQL, PostgreSQL, Cloudinary
+- **Web Technologies**: CSS, HTML5
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ashton-howard-9a7b43305)
+- [Instagram](https://www.instagram.com/ashtonmh.474/)
 <!--
 **AshtonMH474/AshtonMH474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
