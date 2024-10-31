@@ -16,6 +16,9 @@ I'm a software engineer ready to tackle any complex problem you throw my way—c
 - **Databases**: SQL, PostgreSQL, Cloudinary
 - **Web Technologies**: CSS, HTML5
 
+## Projects
+- [Popcorn-Palette](https://github.com/AshtonMH474/Popcorn-Palette)
+
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ashton-howard-9a7b43305)
 - [Instagram](https://www.instagram.com/ashtonmh.474/)
