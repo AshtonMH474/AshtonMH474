@@ -18,11 +18,12 @@ I'm a software engineer ready to tackle any complex problem you throw my way—c
 
 ## Projects
 - [Popcorn-Palette](https://github.com/AshtonMH474/Popcorn-Palette)
+- [KANA](https://github.com/AnthonyBotha/KANA)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ashton-howard-9a7b43305)
-- [Instagram](https://www.instagram.com/ashtonmh.474/)
 - [Portfolio](http://www.ashtondevhub.com/)
+
 <!--
 **AshtonMH474/AshtonMH474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
