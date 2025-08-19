@@ -11,12 +11,13 @@ I'm a software engineer ready to tackle any complex problem you throw my way—c
 
 ## Skills
 - **Languages**: JavaScript, Python
-- **Frameworks**: React, Flask, Express
-- **Libraries**: Redux, SQLAlchemy, Sequelize
+- **Frameworks**: React, Flask, Express, Next.js
+- **Libraries**: Redux, SQLAlchemy, Sequelize, NextAuth, Tailwind CSS, Framer Motion, TinaCMS, Nodemailer 
 - **Databases**: SQL, PostgreSQL, Cloudinary
 - **Web Technologies**: CSS, HTML5
 
 ## Projects
+- [RECRO](https://github.com/AshtonMH474/RecroWebsite)
 - [Popcorn-Palette](https://github.com/AshtonMH474/Popcorn-Palette)
 - [KANA](https://github.com/AnthonyBotha/KANA)
 
